@@ -1,0 +1,9 @@
+Model Output
+Decision Tree:
+Mean: 4.207225187158817
+Standard deviation:  0.8745567547159991
+
+Random Regression:
+Mean: 3.3009631251857217
+Standard deviation:  0.7076841067486248
+/// we use hear the random regressor model
